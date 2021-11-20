@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My App for call</string>
+    <string name="echo">Echo</string>
+    <string name="run_echo">Run echo</string>
+    <string name="name">name</string>
+</resources>
